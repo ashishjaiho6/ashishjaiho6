@@ -8,3 +8,6 @@
 ashishjaiho6/ashishjaiho6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+🛠  Tech Stack
+JavaScript  TypeScript  Node.js  HTML  CSS  React  React  React  Git  PostgreSQL  MongoDB 
