@@ -1,4 +1,12 @@
-### <div align="center">I'm , a full-time full-stack  developer 👨‍💻 working  since 2021 🚀</div>  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashish Gupta
+====================================================================================================================================
+
+Full Stack Developer
+--------------------
+
+I've been learning to code for 1 years, i had work in react , react-native , Next.js
+
+* 🌍  I'm based in lucknow
   
 
 - 🔭 I’m currently working on [my portfolio](hhttps://portfolio-ogk55gme8-team-123.vercel.app/)  
