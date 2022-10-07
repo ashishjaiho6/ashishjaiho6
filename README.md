@@ -133,5 +133,3 @@ I've been learning to code for 1 years, i had work in react , react-native , Nex
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
